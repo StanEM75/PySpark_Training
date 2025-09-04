@@ -1,0 +1,52 @@
+# Big data
+data/**/*
+!data/sample/**            
+!data/raw/.gitkeep         
+
+# Spark artefacts 
+spark-warehouse/
+metastore_db/
+.derby.log
+_checkpoint/
+.checkpoint/
+**/_spark_metadata/
+**/_SUCCESS
+**/.part
+**/_delta_log/_committed_*
+**/_delta_log/_last_checkpoint
+.sparkStaging/
+
+# Jupyter
+.ipynb_checkpoints/
+.jupyter/
+profile_default/
+.ipython/
+
+# Virtual environment
+.venv/
+env/
+ENV/
+venv/
+.venv.bak/
+pip-wheel-metadata/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
+
+# Logs 
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
