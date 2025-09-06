@@ -1,6 +1,6 @@
 # Docker_Training
 
-![Project Image](https://miro.medium.com/1*6Fy4nBMYNOkBccDDlQSHIA.jpeg)
+![Project Image](https://spot.io/wp-content/uploads/2023/05/Blog_Challenges-cloud-Spark-app_1_30dec20-1.jpg)
 
 This is my first project using PySpark. I started with a table that summarizes information about international flights, loaded it into a DataFrame, and then applied various transformations and manipulations with PySpark.
 
