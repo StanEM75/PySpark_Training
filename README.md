@@ -27,10 +27,10 @@ Files: `data/airlines_flights_data.csv` - `spark_exploration.ipynb`
 
 File: `spark_exploration.ipynb`
 
-- Test .show to print the first rows of the table.
-- Test .filter functions to print rows meeting specific requirements only.
-- Query the data using SQL
-- Test .repartition to partition the data 
+- `First rows` section: Test .show to print the first rows of the table.
+- `Filtered rows` section: Test .filter functions to print rows meeting specific requirements only.
+- `Query the data using SQL` section: Query the data using SQL
+- `Partition the data` section: Test .repartition to partition the data 
 
 ## 💼 Basic analyses
 
