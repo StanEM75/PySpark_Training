@@ -1,4 +1,4 @@
-# Docker_Training
+# PySpark_Training
 
 ![Project Image](https://spot.io/wp-content/uploads/2023/05/Blog_Challenges-cloud-Spark-app_1_30dec20-1.jpg)
 
@@ -36,7 +36,9 @@ File: `spark_exploration.ipynb`
 
 File: `spark_exploration.ipynb`
 
-- Print
+WARNING: The data has not been processed so the following results are just first assumptions.
+- Print the most expensive flight in terms of source and arrival destinations.
+- Print the airline that appears the most in the table.
 
 
 
