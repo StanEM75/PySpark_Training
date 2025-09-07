@@ -4,7 +4,7 @@ data/**/*
 # exceptions
 !data/sample/**             # Keep sample data
 !data/raw/.gitkeep          # Keep the .gitkeep
-!data/raw/**/*.csv          # Keep only csv        
+!data/*.csv          # Keep only csv        
 
 # Spark artefacts 
 spark-warehouse/
